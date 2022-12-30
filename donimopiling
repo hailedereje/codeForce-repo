@@ -1,0 +1,5 @@
+m,n=map(int,input().split())
+
+A=n*m
+val = A // 2
+print(A)
